@@ -1,6 +1,4 @@
-# testing-everything
-
-[![Build Status](https://travis-ci.org/alexanderHT/testing-everything.svg?branch=master)](https://travis-ci.org/alexanderHT/testing-everything)
+# testing-everything [![Build Status](https://travis-ci.org/alexanderHT/testing-everything.svg?branch=master)](https://travis-ci.org/alexanderHT/testing-everything)
 ```
 tesing a function isEmpty using mocha and chai
 ```
@@ -18,5 +16,5 @@ tesing a function isEmpty using mocha and chai
 ```
 
 ## Screenshot
+![Alt text](https://github.com/alexanderHT/testing-everything/blob/master/img/log.png "testing-everything")
 
-https://github.com/alexanderHT/testing-everything/blob/master/img/log.png
