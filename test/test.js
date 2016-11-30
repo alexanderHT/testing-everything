@@ -3,10 +3,12 @@
 // require function that want to test
 const App = require('./unit');
 
+// require mocha and chai
 var chai = require('chai')
   , expect = chai.expect
   , should = chai.should();
 
+// main testing
 describe("test function isEmpty", function(){
 
   // test input empty array / ex: []
