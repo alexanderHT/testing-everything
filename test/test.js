@@ -7,8 +7,6 @@ var chai = require('chai')
   , expect = chai.expect
   , should = chai.should();
 
-
-
 describe("test function isEmpty", function(){
 
   // test input empty array / ex: []
